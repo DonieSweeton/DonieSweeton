@@ -1,58 +1,29 @@
-<!-- Welcome Message -->
-# Welcome to My Coding IDE! 🚀
+# 👋 Hello, I'm Donie Sweeton!
 
-```javascript
-console.log("Hello, I'm Donie Sweeton!");
-Languages & Frameworks
-JavaScript
-javascript
-// Back-End Developer Magic
-const express = require('express');
-const app = express();
-app.listen(3000, () => {
-  console.log('Server is running on port 3000');
-});
-SQL & PostgreSQL
-sql
--- Crafting Efficient Databases
-CREATE TABLE users (
-  id SERIAL PRIMARY KEY,
-  username VARCHAR(50),
-  email VARCHAR(100)
-);
-Projects Portfolio
-Social Media Project
-javascript
-// RESTful APIs and Real-Time Features
-const express = require('express');
-const app = express();
+Passionate Software Engineer | Back-End Developer | Explorer of Code
 
-app.get('/api/posts', (req, res) => {
-  // Fetch posts from the database
-  res.json(posts);
-});
+🚀 Welcome to my GitHub profile! I'm a dedicated Software Engineer with a focus on Back-End development. With a keen interest in crafting efficient, scalable, and user-centric applications, I'm on a mission to turn ideas into reality through code.
 
-app.listen(3000, () => {
-  console.log('Server is running');
-});
-Awesome App
-javascript
-// Innovation Unleashed
-const express = require('express');
-const app = express();
+## 🛠️ Technologies & Tools
 
-app.get('/', (req, res) => {
-  res.send('Hello from Awesome App!');
-});
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
-app.listen(3000, () => {
-  console.log('Awesome App is running');
-});
-Connect & Collaborate
-Feel free to explore my "coding IDE" to discover more about my projects, skills, and experiences. Let's connect and collaborate to craft innovative solutions together!
+## 🌱 Featured Project
 
-📫 LinkedIn
+### SocialMediaConnect 🌐
 
-Happy coding! 🌟🚀
-![Donie Sweeton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonieSweeton&show_icons=true&theme=radical)
+[![GitHub](https://img.shields.io/badge/GitHub-Check%20it%20out-blue?style=flat&logo=github)](https://github.com/DonieSweeton)
 
+A dynamic social media project where I contributed as a Back-End Developer. Leveraging Node.js and Express.js, I architected powerful REST APIs for seamless user interactions. PostgreSQL ensured efficient data management, enabling meaningful connections among users. Explore the project to see how innovation meets user experience!
+
+## 📫 Let's Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/doniesweetonr)
+
+Feel free to reach out to me for collaborations, exciting projects, or just to discuss the fascinating world of software engineering. Let's innovate together! 🚀
