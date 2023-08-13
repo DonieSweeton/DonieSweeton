@@ -54,3 +54,5 @@ Feel free to explore my "coding IDE" to discover more about my projects, skills,
 📫 LinkedIn
 
 Happy coding! 🌟🚀
+![Donie Sweeton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonieSweeton&show_icons=true&theme=radical)
+
