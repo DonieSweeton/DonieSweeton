@@ -6,15 +6,10 @@ I thrive at the intersection of code and creativity, weaving digital solutions t
 
 ## What I Bring to the Table
 
-- 🚀 Proficient in JavaScript and Node.js, transforming ideas into functional code.
-- 🌐 Craftsmanship in building robust REST APIs with Express.js to power seamless user experiences.
-- 📊 Fluent in the language of databases, harnessing PostgreSQL for efficient data management.
-- 🐧 Linux aficionado, leveraging its power for optimal development and server environments.
-- 🔒 Security-minded, implementing foolproof measures to safeguard user privacy.
-
-## Skills Snapshot
-
-![JavaScript](https://fontawesome.com/v5.15/assets/img/icons/regular/file-code.svg) ![Node.js](https://fontawesome.com/v5.15/assets/img/icons/brands/node-js.svg) ![Express.js](https://fontawesome.com/v5.15/assets/img/icons/brands/node-js.svg) ![PostgreSQL](https://fontawesome.com/v5.15/assets/img/icons/brands/postgres.svg) ![Linux](https://fontawesome.com/v5.15/assets/img/icons/brands/linux.svg)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) Transforming ideas into functional code.
+- ![Node.js](https://img.shields.io/badge/-Node.js-green) Crafting robust REST APIs with Express.js.
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue) Fluent in the language of databases.
+- ![Linux](https://img.shields.io/badge/-Linux-lightgrey) Leveraging Linux for optimal development.
 
 ## Recent Voyage: Social Media Odyssey
 
@@ -29,8 +24,6 @@ Embarking on a recent voyage as a Backend Developer, I helped steer the course o
 
 Join me in pushing boundaries, exploring the uncharted territories of technology, and crafting innovative solutions that make a difference.
 
-📫 [LinkedIn](https://www.linkedin.com/in/doniesweeton)
-🐦 [Twitter](https://twitter.com/doniesweeton)
-💼 [Portfolio](https://www.doniesweeton.com)
+📫 [LinkedIn](https://www.linkedin.com/in/doniesweetonr)
 
 Let's chart the course for innovation together! 🌟🚀
