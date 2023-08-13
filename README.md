@@ -1,47 +1,56 @@
-<pre>
-$ _Welcome to the Coding Adventure!_
+<!-- Welcome Message -->
+# Welcome to My Coding IDE! 🚀
 
-$ ls
-- about_me.md
-- projects/
-- skills/
-- contact.md
+```javascript
+console.log("Hello, I'm Donie Sweeton!");
+Languages & Frameworks
+JavaScript
+javascript
+// Back-End Developer Magic
+const express = require('express');
+const app = express();
+app.listen(3000, () => {
+  console.log('Server is running on port 3000');
+});
+SQL & PostgreSQL
+sql
+-- Crafting Efficient Databases
+CREATE TABLE users (
+  id SERIAL PRIMARY KEY,
+  username VARCHAR(50),
+  email VARCHAR(100)
+);
+Projects Portfolio
+Social Media Project
+javascript
+// RESTful APIs and Real-Time Features
+const express = require('express');
+const app = express();
 
-$ cat about_me.md
-Hey there! I'm Donie Sweeton, a passionate Software Engineer, Back-End Developer, and Linux Enthusiast. My journey revolves around transforming complex challenges into elegant code solutions.
+app.get('/api/posts', (req, res) => {
+  // Fetch posts from the database
+  res.json(posts);
+});
 
-$ cd projects
+app.listen(3000, () => {
+  console.log('Server is running');
+});
+Awesome App
+javascript
+// Innovation Unleashed
+const express = require('express');
+const app = express();
 
-$ ls
-- social_media_app/
-- cool_project/
-- other_project/
+app.get('/', (req, res) => {
+  res.send('Hello from Awesome App!');
+});
 
-$ cd social_media_app
+app.listen(3000, () => {
+  console.log('Awesome App is running');
+});
+Connect & Collaborate
+Feel free to explore my "coding IDE" to discover more about my projects, skills, and experiences. Let's connect and collaborate to craft innovative solutions together!
 
-$ cat README.md
-# Social Media Platform
+📫 LinkedIn
 
-In this adventure, I crafted powerful REST APIs using Node.js and Express.js, facilitating seamless user interactions. PostgreSQL ensured efficient data management. Collaboration led to real-time features and enhanced engagement.
-
-$ cd ../skills
-
-$ ls
-- javascript.md
-- nodejs.md
-- expressjs.md
-- postgresql.md
-- linux.md
-
-$ cat javascript.md
-JavaScript is my language of choice for turning ideas into functional code. The world of callbacks, promises, and async/await holds no secrets for me.
-
-$ cd ../contact.md
-
-$ cat contact.md
-Join me on this coding journey! Connect and collaborate:
-
-📫 [LinkedIn](https://www.linkedin.com/in/doniesweetonr)
-
-Let's explore the realms of technology together. 🌟🚀
-</pre>
+Happy coding! 🌟🚀
