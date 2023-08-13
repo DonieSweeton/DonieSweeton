@@ -1,29 +1,47 @@
-# Hey there, I'm Donie Sweeton! 👋
+<pre>
+$ _Welcome to the Coding Adventure!_
 
-## About Me
+$ ls
+- about_me.md
+- projects/
+- skills/
+- contact.md
 
-I thrive at the intersection of code and creativity, weaving digital solutions that leave a mark. As a Software Engineer with a penchant for backend wizardry and a love for all things Linux, I find joy in translating complex challenges into elegant, user-centered applications.
+$ cat about_me.md
+Hey there! I'm Donie Sweeton, a passionate Software Engineer, Back-End Developer, and Linux Enthusiast. My journey revolves around transforming complex challenges into elegant code solutions.
 
-## What I Bring to the Table
+$ cd projects
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) Transforming ideas into functional code.
-- ![Node.js](https://img.shields.io/badge/-Node.js-green) Crafting robust REST APIs with Express.js.
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue) Fluent in the language of databases.
-- ![Linux](https://img.shields.io/badge/-Linux-lightgrey) Leveraging Linux for optimal development.
+$ ls
+- social_media_app/
+- cool_project/
+- other_project/
 
-## Recent Voyage: Social Media Odyssey
+$ cd social_media_app
 
-Embarking on a recent voyage as a Backend Developer, I helped steer the course of an exciting social media project. What I brought to the voyage:
+$ cat README.md
+# Social Media Platform
 
-- 🛠️ Developed intricate APIs that facilitated user interactions, breathing life into the platform.
-- 🏗️ Crafted an intricate database architecture on PostgreSQL, ensuring data integrity.
-- 🎯 Collaborated with a diverse crew to introduce real-time features, enriching user engagement.
-- 🔑 Ensured robust security layers, protecting the user realm from any storm.
+In this adventure, I crafted powerful REST APIs using Node.js and Express.js, facilitating seamless user interactions. PostgreSQL ensured efficient data management. Collaboration led to real-time features and enhanced engagement.
 
-## Connect and Collaborate
+$ cd ../skills
 
-Join me in pushing boundaries, exploring the uncharted territories of technology, and crafting innovative solutions that make a difference.
+$ ls
+- javascript.md
+- nodejs.md
+- expressjs.md
+- postgresql.md
+- linux.md
+
+$ cat javascript.md
+JavaScript is my language of choice for turning ideas into functional code. The world of callbacks, promises, and async/await holds no secrets for me.
+
+$ cd ../contact.md
+
+$ cat contact.md
+Join me on this coding journey! Connect and collaborate:
 
 📫 [LinkedIn](https://www.linkedin.com/in/doniesweetonr)
 
-Let's chart the course for innovation together! 🌟🚀
+Let's explore the realms of technology together. 🌟🚀
+</pre>
