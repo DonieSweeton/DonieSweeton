@@ -14,16 +14,11 @@ Passionate Software Engineer | Back-End Developer | Explorer of Code
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
-## 🌱 Featured Project
-
-### SocialMediaConnect 🌐
-
-[![GitHub](https://img.shields.io/badge/GitHub-Check%20it%20out-blue?style=flat&logo=github)](https://github.com/DonieSweeton)
-
-A dynamic social media project where I contributed as a Back-End Developer. Leveraging Node.js and Express.js, I architected powerful REST APIs for seamless user interactions. PostgreSQL ensured efficient data management, enabling meaningful connections among users. Explore the project to see how innovation meets user experience!
-
 ## 📫 Let's Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/doniesweetonr)
 
 Feel free to reach out to me for collaborations, exciting projects, or just to discuss the fascinating world of software engineering. Let's innovate together! 🚀
+
+![Visitor Count](https://profile-counter.glitch.me/DonieSweeton/count.svg)
+
