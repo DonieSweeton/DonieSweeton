@@ -1,29 +1,40 @@
 # 👋 Hey, I'm Donie Sweeton
 
 ### `Backend Software Engineer` • `C#` • `.NET` • `Distributed Systems`
-<!--
-<p align="left">
-  <a href="https://github.com/DonieSweeton">
-    <img src="https://komarev.com/ghpvc/?username=DonieSweeton&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/DonieSweeton?tab=followers">
-    <img src="https://img.shields.io/github/followers/DonieSweeton?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-</p>
--->
+
 ---
 
 ## ⚡ About Me
 
-💻 **Backend Software Engineer**  
-🎯 **C# • .NET • ASP.NET Core**  
-🏗️ **Scalable APIs & Distributed Systems**  
-⚙️ **Microservices • Event-Driven Architecture**  
-🗄️ **PostgreSQL • Redis**  
-📨 **Kafka • Redpanda**  
-☁️ **Azure • Cloud-Native .NET**  
-🤖 **AI-Powered Applications with .NET**  
-✍️ **C# & .NET Technical Writer**
+<p align="center">
+  <strong>Backend Software Engineer</strong>
+  &nbsp;•&nbsp;
+  <strong>C# / .NET</strong>
+  &nbsp;•&nbsp;
+  <strong>ASP.NET Core</strong>
+</p>
+
+<p align="center">
+  🏗️ Microservices
+  &nbsp;•&nbsp;
+  ⚙️ Distributed Systems
+  &nbsp;•&nbsp;
+  📨 Event-Driven Architecture
+</p>
+
+<p align="center">
+  🗄️ PostgreSQL
+  &nbsp;•&nbsp;
+  ⚡ Redis
+  &nbsp;•&nbsp;
+  📨 Kafka
+  &nbsp;•&nbsp;
+  🐼 Redpanda
+</p>
+
+<p align="center">
+  ✍️ C# & .NET Technical Writing
+</p>
 
 ---
 
@@ -71,36 +82,21 @@
 
 ---
 
-## 🧠 Currently Learning
-
-| Area                 | Focus                             |
-| -------------------- | --------------------------------- |
-| 🟣 **.NET**          | Advanced C# & ASP.NET Core        |
-| 🏗️ **Architecture** | Microservices & System Design     |
-| 📨 **Messaging**     | Kafka & Event-Driven Systems      |
-| ⚡ **Performance**    | Redis, Caching & API Optimization |
-| ☁️ **Cloud**         | Azure & Cloud-Native .NET         |
-| 🤖 **AI**            | LLMs, RAG & AI Integration        |
-
----
-<!--
-## 📊 GitHub Stats
+## 🧭 Currently Exploring
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DonieSweeton&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonieSweeton&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://img.shields.io/badge/Advanced_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Design-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Distributed_Systems-333333?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud--Native_.NET-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_%2B_.NET-333333?style=for-the-badge"/>
 </p>
 
 ---
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DonieSweeton&theme=tokyonight&hide_border=true" />
-</p>
-
----
--->
 
 ## ✍️ I Write About .NET
 
