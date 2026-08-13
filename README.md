@@ -15,17 +15,15 @@
 
 ## ⚡ About Me
 
-```text
-💻 Backend Software Engineer
-🎯 Specialized in C# / .NET / ASP.NET Core
-🏗️ Building scalable APIs & distributed systems
-⚙️ Microservices & Event-Driven Architecture
-🗄️ PostgreSQL • Redis
-📨 Kafka • Redpanda
-☁️ Exploring Azure & Cloud-Native .NET
-🤖 Exploring AI-powered applications with .NET
-✍️ Writing about C# & .NET
-````
+💻 **Backend Software Engineer**  
+🎯 **C# • .NET • ASP.NET Core**  
+🏗️ **Scalable APIs & Distributed Systems**  
+⚙️ **Microservices • Event-Driven Architecture**  
+🗄️ **PostgreSQL • Redis**  
+📨 **Kafka • Redpanda**  
+☁️ **Azure • Cloud-Native .NET**  
+🤖 **AI-Powered Applications with .NET**  
+✍️ **C# & .NET Technical Writer**
 
 ---
 
